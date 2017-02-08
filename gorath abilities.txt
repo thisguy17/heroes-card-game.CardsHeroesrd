@@ -1,0 +1,13 @@
+gorath abilities: 10x cards
+
+x2 Overpower: Melee Attack. The target is dealt physical damage, pushed 2 spaces, and stunned until the end of its next turn.
+	2 and an action
+
+x3 Rider's Bow: Ranged Attack 4. Deal physical damage to any of up to three targets within range.
+	2 and an action
+
+x4 Quick Strikes: Gorath makes two basic attacks.
+	1 and an action
+
+x1 Tempest: Melee Attack. Deal physical damage to all enemies within 2 then move to any space in that area.
+	3 and an action

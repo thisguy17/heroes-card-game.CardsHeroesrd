@@ -1,0 +1,12 @@
+--Ella:
+
+2x Cone of Cold: $-(B)(B)(B)(B)(B)(B)(a) - Characters in or adjacent to a line 4 starting at Elydir take magic damage equal to twice Elydir's INT
+and have their speed halved until the end of Elydir's next turn.
+
+4x Fireball: $-(B)(B)(B)(a) - Choose a point within 6 spaces. Characters within 2 spaces of that point take magic damage equal to Elydir's level
+times ten plus INT.
+
+3x Haste: $-(B)(B)(B)(a) - Elydir or another character of her choice within melee draws 2 cards and gains double speed until the end of Elydir's
+next turn.
+
+1x Shapechange: $-(a)(a)(a)(a) Transform into Kynatheria

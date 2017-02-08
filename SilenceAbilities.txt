@@ -1,0 +1,9 @@
+Silence abilities: 10x cards
+
+5x Opportunist: Melee Attack. Reaction. When an enemy steps into melee range, make a basic attack against the triggering enemy. 
+
+2x Backstab: Melee Attack. Silence deals ATK physical damage to a target. If the target is flanked, the attack deals double damage.
+
+1x Vanish: Special. Silence cannot attack or be attacked until the end of his next turn.
+
+2x Assassinate: Melee Attack. Silence deals ATK physical damage to a target. If the target is below half max health, the attack deals double damage.
